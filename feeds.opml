@@ -1,0 +1,141 @@
+<opml version="1.0" xmlns:fz="urn:forumzilla:">
+  <head>
+    <title>Soccer Analytics Blogs</title>
+  </head>
+  <body>
+    <outline title="penaltyblog">
+      <outline type="rss" title="penaltyblog" text="penaltyblog" version="RSS" fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576610411,&quot;lastDownloadTime&quot;:1759895377414,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://pena.lt/y/feeds/all.atom.xml" htmlUrl="https://pena.lt/y/feeds/all.atom.xml" />
+    </outline>
+    <outline title="ARMCHAIR ANALYST TACTICS FREE ZONE">
+      <outline type="rss" title="ARMCHAIR ANALYST: TACTICS FREE ZONE"
+        text="ARMCHAIR ANALYST: TACTICS FREE ZONE" version="RSS" fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576610991,&quot;lastDownloadTime&quot;:1760390555018,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://tacticsfreezone.substack.com/feed"
+        htmlUrl="https://tacticsfreezone.substack.com" />
+    </outline>
+    <outline title="stats and snakeoil">
+      <outline type="rss" title="stats and snakeoil" text="stats and snakeoil" version="RSS"
+        fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:43200,&quot;updateUnits&quot;:&quot;d&quot;,&quot;lastUpdateTime&quot;:1760066233775,&quot;lastDownloadTime&quot;:1731634526881,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://www.statsandsnakeoil.com/atom.xml"
+        htmlUrl="https://www.statsandsnakeoil.com/atom.xml" />
+    </outline>
+    <outline title="todnewman.com">
+      <outline type="rss" title="todnewman.com" text="todnewman.com" version="RSS"
+        fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576610783,&quot;lastDownloadTime&quot;:1757989198734,&quot;updatePeriod&quot;:&quot;hourly&quot;,&quot;updateFrequency&quot;:&quot;1&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://todnewman.com/?feed=rss2&amp;cat=11" htmlUrl="https://todnewman.com/?cat=11" />
+    </outline>
+    <outline title="blog-feed">
+      <outline type="rss" title="blog-feed" text="blog-feed" version="RSS" fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576670034,&quot;lastDownloadTime&quot;:1760301910471,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://dtai.cs.kuleuven.be/sports/rss.xml" htmlUrl="https://dtai.cs.kuleuven.be" />
+    </outline>
+    <outline title="UnravelSports">
+      <outline type="rss" title="UnravelSports" text="UnravelSports" version="RSS"
+        fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576669287,&quot;lastDownloadTime&quot;:1755539238395,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://unravelsports.github.io/feed"
+        htmlUrl="https://unravelsports.github.io/feed.xml" />
+    </outline>
+    <outline title="Expecting Goals">
+      <outline type="rss" title="Expecting Goals" text="Expecting Goals" version="RSS"
+        fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576670174,&quot;lastDownloadTime&quot;:1759273094224,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://www.expectinggoals.com/feed" htmlUrl="https://www.expectinggoals.com" />
+    </outline>
+    <outline title="Post Script">
+      <outline type="rss" title="Post Script" text="Post Script" version="RSS" fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576669654,&quot;lastDownloadTime&quot;:1731634526613,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://postscriptpod.substack.com/feed"
+        htmlUrl="https://postscriptpod.substack.com" />
+    </outline>
+    <outline title="Stateside Stats">
+      <outline type="rss" title="Stateside Stats" text="Stateside Stats" version="RSS"
+        fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576670437,&quot;lastDownloadTime&quot;:1759895376075,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://statesidestats.substack.com/feed.xml"
+        htmlUrl="https://statesidestats.substack.com" />
+    </outline>
+    <outline title="Blog - Analytics FC">
+      <outline type="rss" title="Blog - Analytics FC" text="Blog - Analytics FC" version="RSS"
+        fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576670490,&quot;lastDownloadTime&quot;:1759431951335,&quot;updatePeriod&quot;:&quot;hourly&quot;,&quot;updateFrequency&quot;:&quot;1&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://analyticsfc.co.uk/blog/feed" htmlUrl="https://analyticsfc.co.uk/blog/" />
+    </outline>
+    <outline title="Get Goalside">
+      <outline type="rss" title="Get Goalside" text="Get Goalside" version="RSS"
+        fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576670140,&quot;lastDownloadTime&quot;:1760301912663,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://www.getgoalsideanalytics.com/rss/"
+        htmlUrl="https://www.getgoalsideanalytics.com/" />
+    </outline>
+    <outline title="Marc’s Substack">
+      <outline type="rss" title="Marc’s Substack" text="Marc’s Substack" version="RSS"
+        fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576669698,&quot;lastDownloadTime&quot;:1748659635402,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://mbmachado.substack.com/feed" htmlUrl="https://mbmachado.substack.com" />
+    </outline>
+    <outline title="Gradient Sports">
+      <outline type="rss" title="Gradient Sports" text="Gradient Sports" version="RSS"
+        fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576669317,&quot;lastDownloadTime&quot;:1760569017104,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://www.gradientsports.com/blog/rss.xml"
+        htmlUrl="https://www.gradientsports.com" />
+    </outline>
+    <outline title="Grace on Football">
+      <outline type="rss" title="Grace on Football" text="Grace on Football" version="RSS"
+        fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576670377,&quot;lastDownloadTime&quot;:1760490689631,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://www.graceonfootball.com/feed" htmlUrl="https://www.graceonfootball.com" />
+    </outline>
+    <outline title="Absolute Unit">
+      <outline type="rss" title="Absolute Unit" text="Absolute Unit" version="RSS"
+        fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576670354,&quot;lastDownloadTime&quot;:1735410640746,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://absoluteunit.substack.com/feed" htmlUrl="https://absoluteunit.substack.com" />
+    </outline>
+    <outline title="Footy Analytic Musings">
+      <outline type="rss" title="Footy Analytic Musings" text="Footy Analytic Musings" version="RSS"
+        fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576670350,&quot;lastDownloadTime&quot;:1759589246870,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://footyanalyticmusings.substack.com/feed"
+        htmlUrl="https://footyanalyticmusings.substack.com" />
+    </outline>
+    <outline title="Central Winger">
+      <outline type="rss" title="Central Winger" text="Central Winger" version="RSS"
+        fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576669786,&quot;lastDownloadTime&quot;:1748875985897,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://www.centralwinger.com/feed" htmlUrl="https://www.centralwinger.com" />
+    </outline>
+    <outline title="American Soccer Analysis">
+      <outline type="rss" title="American Soccer Analysis" text="American Soccer Analysis"
+        version="RSS" fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:false,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760496535008,&quot;lastDownloadTime&quot;:1760496535008,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://www.americansocceranalysis.com/home?format=rss"
+        htmlUrl="https://www.americansocceranalysis.com/home/" />
+    </outline>
+    <outline title="futi">
+      <outline type="rss" title="futi" text="futi" version="RSS" fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576669337,&quot;lastDownloadTime&quot;:1748983039269,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://futiapp.substack.com/feed" htmlUrl="https://futiapp.substack.com" />
+    </outline>
+    <outline title="Achraff Adjileye">
+      <outline type="rss" title="Achraff Adjileye" text="Achraff Adjileye" version="RSS" fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576669337,&quot;lastDownloadTime&quot;:1748983039269,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://medium.com/feed/@adjileyeb" htmlUrl="https://medium.com/@adjileyeb" />
+    </outline>
+    <outline title="500 Words Per 90">
+      <outline type="rss" title="500 Words Per 90" text="500 Words Per 90" version="RSS" fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576669337,&quot;lastDownloadTime&quot;:1748983039269,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://500wp90.substack.com/feed" htmlUrl="https://500wp90.substack.com/" />
+    </outline>
+    <outline title="Paul Johnson">
+      <outline type="rss" title="500 Words Per 90" text="500 Words Per 90" version="RSS" fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576669337,&quot;lastDownloadTime&quot;:1748983039269,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://paulrjohnson.net/blog/index.xml" htmlUrl="https://paulrjohnson.net/blog/" />
+    </outline>
+  </body>
+</opml>

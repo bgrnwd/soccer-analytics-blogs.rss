@@ -1,2 +1,26 @@
 # soccer-analytics-blogs.rss
-A curated collection of soccer analytics blogs and their RSS feeds
+
+A curated collection of soccer analytics blogs and their RSS feeds :satellite:
+
+- [500 Words Per 90](https://500wp90.substack.com/feed)
+- [Absolute Unit](https://absoluteunit.substack.com/feed)
+- [Achraff Adjileye](https://medium.com/feed/@adjileyeb)
+- [American Soccer Analysis](https://www.americansocceranalysis.com/home?format=rss)
+- [Armchair Analyst: Tactics Free Zone](https://tacticsfreezone.substack.com/feed)
+- [Analytics FC](https://analyticsfc.co.uk/blog/feed)
+- [Central Winger](https://www.centralwinger.com/feed)
+- [Expecting Goals](https://www.expectinggoals.com/feed)
+- [Footy Analytic Musing](https://footyanalyticmusings.substack.com/feed)
+- [Futi](https://futiapp.substack.com/feed)
+- [Get Goalside](https://www.getgoalsideanalytics.com/rss/)
+- [Grace on Football](https://www.graceonfootball.com/feed)
+- [Gradient Sports](https://www.gradientsports.com/blog/rss.xml)
+- [KU Leuven DTAI Sports Analytics Lab](https://dtai.cs.kuleuven.be/sports/rss.xml)
+- [Marc's Substack](https://mbmachado.substack.com/feed)
+- [Paul Johnson](https://paulrjohnson.net/blog/index.xml)
+- [Penaltyblog](https://pena.lt/y/feeds/all.atom.xml)
+- [Post Script](https://postscriptpod.substack.com/feed)
+- [Stateside Stats](https://statesidestats.substack.com/feed.xml)
+- [Stats and Snakeoil](https://www.statsandsnakeoil.com/atom.xml)
+- [Tod Newman](https://todnewman.com/?feed=rss2&cat=11)
+- [UnravelSports](https://unravelsports.github.io/feed)
