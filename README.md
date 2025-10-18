@@ -24,3 +24,4 @@ A curated collection of soccer analytics blogs and their RSS feeds :satellite:
 - [Stats and Snakeoil](https://www.statsandsnakeoil.com/atom.xml)
 - [Tod Newman](https://todnewman.com/?feed=rss2&cat=11)
 - [UnravelSports](https://unravelsports.github.io/feed)
+- [Waltzing Analytics](https://marclamberts.substack.com/feed)

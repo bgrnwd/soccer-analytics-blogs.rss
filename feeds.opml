@@ -137,5 +137,10 @@
         fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576669337,&quot;lastDownloadTime&quot;:1748983039269,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
         xmlUrl="https://paulrjohnson.net/blog/index.xml" htmlUrl="https://paulrjohnson.net/blog/" />
     </outline>
+  <outline title="Waltzing Analytics">
+      <outline type="rss" title="Waltzing Analytics" text="Waltzing Analytics" version="RSS" fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576669337,&quot;lastDownloadTime&quot;:1748983039269,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://marclamberts.substack.com/feed" htmlUrl="https://marclamberts.substack.com/" />
+    </outline>
   </body>
 </opml>
