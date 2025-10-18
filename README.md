@@ -10,6 +10,7 @@ A curated collection of soccer analytics blogs and their RSS feeds :satellite:
 - [Analytics FC](https://analyticsfc.co.uk/blog/feed)
 - [Central Winger](https://www.centralwinger.com/feed)
 - [Expecting Goals](https://www.expectinggoals.com/feed)
+- [Experimental 361](https://www.experimental361.com/feed)
 - [Footy Analytic Musing](https://footyanalyticmusings.substack.com/feed)
 - [Futi](https://futiapp.substack.com/feed)
 - [Get Goalside](https://www.getgoalsideanalytics.com/rss/)
