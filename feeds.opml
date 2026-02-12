@@ -8,12 +8,11 @@
         fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576610411,&quot;lastDownloadTime&quot;:1759895377414,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
         xmlUrl="https://pena.lt/y/feeds/all.atom.xml" htmlUrl="https://pena.lt/y/feeds/all.atom.xml" />
     </outline>
-    <outline title="ARMCHAIR ANALYST TACTICS FREE ZONE">
-      <outline type="rss" title="ARMCHAIR ANALYST: TACTICS FREE ZONE"
-        text="ARMCHAIR ANALYST: TACTICS FREE ZONE" version="RSS" fz:quickMode="false"
-        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576610991,&quot;lastDownloadTime&quot;:1760390555018,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
-        xmlUrl="https://tacticsfreezone.substack.com/feed"
-        htmlUrl="https://tacticsfreezone.substack.com" />
+    <outline title="TacticsFreeZone™">
+      <outline type="rss" title="TacticsFreeZone™" text="TacticsFreeZone™" version="RSS"
+        fz:quickMode="false"
+        fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1770870141851,&quot;lastDownloadTime&quot;:null,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
+        xmlUrl="https://tacticsfreezone.ghost.io/feed" htmlUrl="https://tacticsfreezone.ghost.io/" />
     </outline>
     <outline title="stats and snakeoil">
       <outline type="rss" title="stats and snakeoil" text="stats and snakeoil" version="RSS"
@@ -123,32 +122,39 @@
         xmlUrl="https://futiapp.substack.com/feed" htmlUrl="https://futiapp.substack.com" />
     </outline>
     <outline title="Achraff Adjileye">
-      <outline type="rss" title="Achraff Adjileye" text="Achraff Adjileye" version="RSS" fz:quickMode="false"
+      <outline type="rss" title="Achraff Adjileye" text="Achraff Adjileye" version="RSS"
+        fz:quickMode="false"
         fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576669337,&quot;lastDownloadTime&quot;:1748983039269,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
         xmlUrl="https://medium.com/feed/@adjileyeb" htmlUrl="https://medium.com/@adjileyeb" />
     </outline>
     <outline title="500 Words Per 90">
-      <outline type="rss" title="500 Words Per 90" text="500 Words Per 90" version="RSS" fz:quickMode="false"
+      <outline type="rss" title="500 Words Per 90" text="500 Words Per 90" version="RSS"
+        fz:quickMode="false"
         fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576669337,&quot;lastDownloadTime&quot;:1748983039269,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
         xmlUrl="https://500wp90.substack.com/feed" htmlUrl="https://500wp90.substack.com/" />
     </outline>
     <outline title="Paul Johnson">
-      <outline type="rss" title="500 Words Per 90" text="500 Words Per 90" version="RSS" fz:quickMode="false"
+      <outline type="rss" title="500 Words Per 90" text="500 Words Per 90" version="RSS"
+        fz:quickMode="false"
         fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576669337,&quot;lastDownloadTime&quot;:1748983039269,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
         xmlUrl="https://paulrjohnson.net/blog/index.xml" htmlUrl="https://paulrjohnson.net/blog/" />
     </outline>
     <outline title="Waltzing Analytics">
-      <outline type="rss" title="Waltzing Analytics" text="Waltzing Analytics" version="RSS" fz:quickMode="false"
+      <outline type="rss" title="Waltzing Analytics" text="Waltzing Analytics" version="RSS"
+        fz:quickMode="false"
         fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576669337,&quot;lastDownloadTime&quot;:1748983039269,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
         xmlUrl="https://marclamberts.substack.com/feed" htmlUrl="https://marclamberts.substack.com/" />
     </outline>
     <outline title="The xG Football Club">
-      <outline type="rss" title="The xG Football Club" text="The xG Football Club" version="RSS" fz:quickMode="false"
+      <outline type="rss" title="The xG Football Club" text="The xG Football Club" version="RSS"
+        fz:quickMode="false"
         fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576669337,&quot;lastDownloadTime&quot;:1748983039269,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
-        xmlUrl="https://thexgfootballclub.substack.com/feed" htmlUrl="https://thexgfootballclub.substack.com/" />
+        xmlUrl="https://thexgfootballclub.substack.com/feed"
+        htmlUrl="https://thexgfootballclub.substack.com/" />
     </outline>
     <outline title="Experimental 361">
-      <outline type="rss" title="Experimental 361" text="Experimental 361" version="RSS" fz:quickMode="false"
+      <outline type="rss" title="Experimental 361" text="Experimental 361" version="RSS"
+        fz:quickMode="false"
         fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576669337,&quot;lastDownloadTime&quot;:1748983039269,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
         xmlUrl="https://www.experimental361.com/feed" htmlUrl="https://www.experimental361.com/" />
     </outline>
