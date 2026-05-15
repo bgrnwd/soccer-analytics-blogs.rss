@@ -10,4 +10,4 @@ jobs:
       - uses: actions/checkout@v6
       - name: Verify RSS feeds
         run: |   
-            ./.github/workflows/verify_feeds.sh feeds.opml
+            ./.github/workflows/verify-feeds.sh feeds.opml
