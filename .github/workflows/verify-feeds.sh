@@ -40,6 +40,7 @@ while IFS= read -r line; do
     # Test the feed with curl (follow redirects with -L)
     response_code=$(curl -s -o /dev/null -w "%{http_code}" \
         -L \
+        -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \
         --connect-timeout $TIMEOUT \
         --max-time $TIMEOUT \
         "$url" 2>/dev/null)
