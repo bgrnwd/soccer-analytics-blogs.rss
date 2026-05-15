@@ -134,7 +134,7 @@
         xmlUrl="https://500wp90.substack.com/feed" htmlUrl="https://500wp90.substack.com/" />
     </outline>
     <outline title="Paul Johnson">
-      <outline type="rss" title="500 Words Per 90" text="500 Words Per 90" version="RSS"
+      <outline type="rss" title="Paul Johnson" text="Paul Johnson" version="RSS"
         fz:quickMode="false"
         fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1760576669337,&quot;lastDownloadTime&quot;:1748983039269,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}"
         xmlUrl="https://paulrjohnson.net/blog/index.xml" htmlUrl="https://paulrjohnson.net/blog/" />
